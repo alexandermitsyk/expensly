@@ -6,7 +6,6 @@ router
     .route('/')
     .get(getTransactions)
     .post(addTransactions);
-
 router
     .route('/:id')
     .delete(deleteTransactions);

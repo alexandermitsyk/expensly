@@ -55,7 +55,7 @@ exports.deleteTransactions = async (req, res, next) => {
     try {
         const transaction = await Transaction.findById(req.params.id);
         
-        if(!transaction){
+        if(!transaction) {
             return res.status(404).json({
                 success: false,
                 error: 'No transaction found',
