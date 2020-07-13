@@ -1,6 +1,6 @@
 # expensly
 React transaction tracker
 
-##Demo
+# Demo
 
 https://expensly.cloudcoding.me/
