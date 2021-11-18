@@ -3,4 +3,4 @@ React transaction tracker
 
 # Demo
 
-https://expensly.cloudcoding.me/
+https://expensly.thecloudcoding.com/
